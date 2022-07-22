@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - DayTrigger
+  - Venus
+  - Earth
+  - Mars
+  - Mercury
+  - Sun
   layers:
   - Default
   - TransparentFX
